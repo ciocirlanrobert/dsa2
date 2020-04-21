@@ -1,5 +1,4 @@
 ### 1. Autocomplete with Tries
-![Autocomplete](images/autocomplete.png)
 ---
 ### 2. Dutch National Flag Problem
 ![Dutch Flag](images/dutch_flag.png)
